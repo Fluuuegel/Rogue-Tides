@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections.Generic;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
@@ -26,7 +27,7 @@ public class PlayerController : MonoBehaviour
     {   
         speed = 1f; // Set the speed of the player
         collisionOffset = 0.01f;
-        lookDirection = Vector2.right; // Default look direction
+        lookDirection = Vector2.down; // Default look direction
 
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
@@ -76,13 +77,15 @@ public class PlayerController : MonoBehaviour
             lookDirection = moveInput.normalized;
         }
 
-        // Set direction for animation
-        if (moveInput.x > 0) {
-            spriteRenderer.flipX = false; // Face right
-        } else if (moveInput.x < 0) {
-            spriteRenderer.flipX = true; // Face left
-        }
+        // // Set direction for animation
+        // if (moveInput.x > 0) {
+        //     spriteRenderer.flipX = false; // Face right
+        // } else if (moveInput.x < 0) {
+        //     spriteRenderer.flipX = true; // Face left
+        // }
 
+        animator.SetFloat("LookDirectionX", lookDirection.x);
+        animator.SetFloat("LookDirectionY", lookDirection.y);
     }
     
     private bool Move(Vector2 direction) {
