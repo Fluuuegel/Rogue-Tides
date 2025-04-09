@@ -4,7 +4,7 @@
 
 ```bash
 ├───Art # Art pack assets (plz put only the components you want to use)
-│   | 
+│   │ 
 │   └───Ninja Adventure # Assets pack name
 │       ├───Characters
 │       ├───Items
