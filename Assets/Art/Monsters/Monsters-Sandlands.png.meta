@@ -1,0 +1,1924 @@
+fileFormatVersion: 2
+guid: 9b4c9a02c28ee084ca8b4d23427cb6e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2743796669398238160
+    second: Monsters-Sandlands_0
+  - first:
+      213: -8615545229016646121
+    second: Monsters-Sandlands_1
+  - first:
+      213: 4816839898282644833
+    second: Monsters-Sandlands_2
+  - first:
+      213: 8051723109996317490
+    second: Monsters-Sandlands_3
+  - first:
+      213: -5281431398192044182
+    second: Monsters-Sandlands_4
+  - first:
+      213: -3674525281029001492
+    second: Monsters-Sandlands_5
+  - first:
+      213: 9053734703411809036
+    second: Monsters-Sandlands_6
+  - first:
+      213: -3931409538935640665
+    second: Monsters-Sandlands_7
+  - first:
+      213: 4638042420375271529
+    second: Monsters-Sandlands_8
+  - first:
+      213: 5187267326987577594
+    second: Monsters-Sandlands_9
+  - first:
+      213: 6303012606264229594
+    second: Monsters-Sandlands_10
+  - first:
+      213: 2230899234230620509
+    second: Monsters-Sandlands_11
+  - first:
+      213: -6230464240666148207
+    second: Monsters-Sandlands_12
+  - first:
+      213: 13523105271342925
+    second: Monsters-Sandlands_13
+  - first:
+      213: 5036862658346527704
+    second: Monsters-Sandlands_14
+  - first:
+      213: 5770304721973102588
+    second: Monsters-Sandlands_15
+  - first:
+      213: 752055723138039749
+    second: Monsters-Sandlands_16
+  - first:
+      213: 8174950013899278257
+    second: Monsters-Sandlands_17
+  - first:
+      213: 56745288925845136
+    second: Monsters-Sandlands_18
+  - first:
+      213: 8406188869018461895
+    second: Monsters-Sandlands_19
+  - first:
+      213: 6411541674637614853
+    second: Monsters-Sandlands_20
+  - first:
+      213: -2155105367995935262
+    second: Monsters-Sandlands_21
+  - first:
+      213: 3947498489377173563
+    second: Monsters-Sandlands_22
+  - first:
+      213: 2754754578018167822
+    second: Monsters-Sandlands_23
+  - first:
+      213: -5329506176862446333
+    second: Monsters-Sandlands_24
+  - first:
+      213: -3347945094217492730
+    second: Monsters-Sandlands_25
+  - first:
+      213: 8500677970216481175
+    second: Monsters-Sandlands_26
+  - first:
+      213: 5317941595871572425
+    second: Monsters-Sandlands_27
+  - first:
+      213: 53762272797991379
+    second: Monsters-Sandlands_28
+  - first:
+      213: -4941741862485967308
+    second: Monsters-Sandlands_29
+  - first:
+      213: 5011486565793193286
+    second: Monsters-Sandlands_30
+  - first:
+      213: 434984370153479233
+    second: Monsters-Sandlands_31
+  - first:
+      213: -8395752712355149160
+    second: Monsters-Sandlands_32
+  - first:
+      213: 5735968250659541966
+    second: Monsters-Sandlands_33
+  - first:
+      213: 2163758485256928755
+    second: Monsters-Sandlands_34
+  - first:
+      213: -5834578274509605357
+    second: Monsters-Sandlands_35
+  - first:
+      213: 682734758395617730
+    second: Monsters-Sandlands_36
+  - first:
+      213: -2215672697167550281
+    second: Monsters-Sandlands_37
+  - first:
+      213: 6362622675077626963
+    second: Monsters-Sandlands_38
+  - first:
+      213: 7589983723770202730
+    second: Monsters-Sandlands_39
+  - first:
+      213: 1829753953966955009
+    second: Monsters-Sandlands_40
+  - first:
+      213: 8992292975569399929
+    second: Monsters-Sandlands_41
+  - first:
+      213: 151130188846583901
+    second: Monsters-Sandlands_42
+  - first:
+      213: -933494746028626583
+    second: Monsters-Sandlands_43
+  - first:
+      213: 4007786422335252466
+    second: Monsters-Sandlands_44
+  - first:
+      213: -2477279886147150321
+    second: Monsters-Sandlands_45
+  - first:
+      213: -3186993218052492312
+    second: Monsters-Sandlands_46
+  - first:
+      213: -7524468719636590555
+    second: Monsters-Sandlands_47
+  - first:
+      213: -7468429176053089765
+    second: Monsters-Sandlands_48
+  - first:
+      213: -8772481817122281050
+    second: Monsters-Sandlands_49
+  - first:
+      213: -6911795534107354113
+    second: Monsters-Sandlands_50
+  - first:
+      213: -912806006410399608
+    second: Monsters-Sandlands_51
+  - first:
+      213: -5925053689886539513
+    second: Monsters-Sandlands_52
+  - first:
+      213: -8701367806467243761
+    second: Monsters-Sandlands_53
+  - first:
+      213: 7139884144144069206
+    second: Monsters-Sandlands_54
+  - first:
+      213: -9004530025206199978
+    second: Monsters-Sandlands_55
+  - first:
+      213: -6171458034892163254
+    second: Monsters-Sandlands_56
+  - first:
+      213: -8322705230906244760
+    second: Monsters-Sandlands_57
+  - first:
+      213: -5981132819666140701
+    second: Monsters-Sandlands_58
+  - first:
+      213: 1354226141758477859
+    second: Monsters-Sandlands_59
+  - first:
+      213: -7346754316446023823
+    second: Monsters-Sandlands_60
+  - first:
+      213: 3662651524716829021
+    second: Monsters-Sandlands_61
+  - first:
+      213: -2017455063217185128
+    second: Monsters-Sandlands_62
+  - first:
+      213: -1471516888516582052
+    second: Monsters-Sandlands_63
+  - first:
+      213: -6245058789459561846
+    second: Monsters-Sandlands_64
+  - first:
+      213: -5907544823883273081
+    second: Monsters-Sandlands_65
+  - first:
+      213: -6813196194336884075
+    second: Monsters-Sandlands_66
+  - first:
+      213: -816060568391614351
+    second: Monsters-Sandlands_67
+  - first:
+      213: -715589706015074109
+    second: Monsters-Sandlands_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monsters-Sandlands_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c167988ce31620800000000000000
+      internalID: 2743796669398238160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb626e24f6f6880800000000000000
+      internalID: -8615545229016646121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d015ed5ad8d240800000000000000
+      internalID: 4816839898282644833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b422932877dbf60800000000000000
+      internalID: 8051723109996317490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a672b25202694b6b0800000000000000
+      internalID: -5281431398192044182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceee212b9b6710dc0800000000000000
+      internalID: -3674525281029001492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bcc777eb355ad70800000000000000
+      internalID: 9053734703411809036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ada8259ad3d079c0800000000000000
+      internalID: -3931409538935640665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 105
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96839a70203ad5040800000000000000
+      internalID: 4638042420375271529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 105
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a51c8620ecf740800000000000000
+      internalID: 5187267326987577594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 105
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade3033129cc87750800000000000000
+      internalID: 6303012606264229594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51d102a80fb5fe10800000000000000
+      internalID: 2230899234230620509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192025598c1f889a0800000000000000
+      internalID: -6230464240666148207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4765fd413b003000800000000000000
+      internalID: 13523105271342925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbac2db6e786e540800000000000000
+      internalID: 5036862658346527704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf747fe729d341050800000000000000
+      internalID: 5770304721973102588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf31f412b6df6a00800000000000000
+      internalID: 752055723138039749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b78a0399b1437170800000000000000
+      internalID: 8174950013899278257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961a152a8999c000800000000000000
+      internalID: 56745288925845136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c620bc0d38c8a470800000000000000
+      internalID: 8406188869018461895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f536bee2f5af850800000000000000
+      internalID: 6411541674637614853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5901706178712e0800000000000000
+      internalID: -2155105367995935262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30b7ba16f458c630800000000000000
+      internalID: 3947498489377173563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c672281bada3620800000000000000
+      internalID: 2754754578018167822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d1ddb7e5ac906b0800000000000000
+      internalID: -5329506176862446333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60797abcca5b981d0800000000000000
+      internalID: -3347945094217492730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fdbc439978f570800000000000000
+      internalID: 8500677970216481175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1f23ea4bf1dc940800000000000000
+      internalID: 5317941595871572425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1217490800fb000800000000000000
+      internalID: 53762272797991379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb8d265f76b6bb0800000000000000
+      internalID: -4941741862485967308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ddeb6ca706c8540800000000000000
+      internalID: 5011486565793193286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c58d1eaff590600800000000000000
+      internalID: 434984370153479233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a8c06046b4c7b80800000000000000
+      internalID: -8395752712355149160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec31b77cbb04a9f40800000000000000
+      internalID: 5735968250659541966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf975d0e6370e10800000000000000
+      internalID: 2163758485256928755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b4a5e8f9670fa0800000000000000
+      internalID: -5834578274509605357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1abfd35af897900800000000000000
+      internalID: 682734758395617730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 14
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8ebcacb695041e0800000000000000
+      internalID: -2215672697167550281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cf8d3cc939c4850800000000000000
+      internalID: 6362622675077626963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 63
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ac15abbf9055960800000000000000
+      internalID: 7589983723770202730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 63
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a1194d687946910800000000000000
+      internalID: 1829753953966955009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 63
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970fd0d61da0bcc70800000000000000
+      internalID: 8992292975569399929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 70
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50d9052b1ce81200800000000000000
+      internalID: 151130188846583901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d254f697f8b03f0800000000000000
+      internalID: -933494746028626583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72de654848e9730800000000000000
+      internalID: 4007786422335252466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 63
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9af8911fee9dd0800000000000000
+      internalID: -2477279886147150321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3f668bd8685c3d0800000000000000
+      internalID: -3186993218052492312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520d58ad097b39790800000000000000
+      internalID: -7524468719636590555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a313bdb3fca5890800000000000000
+      internalID: -7468429176053089765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96ad31442e14680800000000000000
+      internalID: -8772481817122281050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb566df49e5410a0800000000000000
+      internalID: -6911795534107354113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_51
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b01ff5cf0553f0800000000000000
+      internalID: -912806006410399608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7010233bf0bf5cda0800000000000000
+      internalID: -5925053689886539513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f010083f4188e3780800000000000000
+      internalID: -8701367806467243761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b625ecc6f51360800000000000000
+      internalID: 7139884144144069206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ce3e66ab790380800000000000000
+      internalID: -9004530025206199978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b5047d939a5aa0800000000000000
+      internalID: -6171458034892163254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614c8520bfcf7c80800000000000000
+      internalID: -8322705230906244760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18e51d36fbefca0800000000000000
+      internalID: -5981132819666140701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 31
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326df0d308d2bc210800000000000000
+      internalID: 1354226141758477859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fba2cbfd51b0a90800000000000000
+      internalID: -7346754316446023823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d591acaf72a54d230800000000000000
+      internalID: 3662651524716829021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e50a61f4f8004e0800000000000000
+      internalID: -2017455063217185128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 12
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552bf2bf2f149be0800000000000000
+      internalID: -1471516888516582052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f4d46e181559a0800000000000000
+      internalID: -6245058789459561846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c6dbd384f240ea0800000000000000
+      internalID: -5907544823883273081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ab18bb82aa271a0800000000000000
+      internalID: -6813196194336884075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17080d99c35cca4f0800000000000000
+      internalID: -816060568391614351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Sandlands_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89b0824f6b116f0800000000000000
+      internalID: -715589706015074109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monsters-Sandlands_0: 2743796669398238160
+      Monsters-Sandlands_1: -8615545229016646121
+      Monsters-Sandlands_10: 6303012606264229594
+      Monsters-Sandlands_11: 2230899234230620509
+      Monsters-Sandlands_12: -6230464240666148207
+      Monsters-Sandlands_13: 13523105271342925
+      Monsters-Sandlands_14: 5036862658346527704
+      Monsters-Sandlands_15: 5770304721973102588
+      Monsters-Sandlands_16: 752055723138039749
+      Monsters-Sandlands_17: 8174950013899278257
+      Monsters-Sandlands_18: 56745288925845136
+      Monsters-Sandlands_19: 8406188869018461895
+      Monsters-Sandlands_2: 4816839898282644833
+      Monsters-Sandlands_20: 6411541674637614853
+      Monsters-Sandlands_21: -2155105367995935262
+      Monsters-Sandlands_22: 3947498489377173563
+      Monsters-Sandlands_23: 2754754578018167822
+      Monsters-Sandlands_24: -5329506176862446333
+      Monsters-Sandlands_25: -3347945094217492730
+      Monsters-Sandlands_26: 8500677970216481175
+      Monsters-Sandlands_27: 5317941595871572425
+      Monsters-Sandlands_28: 53762272797991379
+      Monsters-Sandlands_29: -4941741862485967308
+      Monsters-Sandlands_3: 8051723109996317490
+      Monsters-Sandlands_30: 5011486565793193286
+      Monsters-Sandlands_31: 434984370153479233
+      Monsters-Sandlands_32: -8395752712355149160
+      Monsters-Sandlands_33: 5735968250659541966
+      Monsters-Sandlands_34: 2163758485256928755
+      Monsters-Sandlands_35: -5834578274509605357
+      Monsters-Sandlands_36: 682734758395617730
+      Monsters-Sandlands_37: -2215672697167550281
+      Monsters-Sandlands_38: 6362622675077626963
+      Monsters-Sandlands_39: 7589983723770202730
+      Monsters-Sandlands_4: -5281431398192044182
+      Monsters-Sandlands_40: 1829753953966955009
+      Monsters-Sandlands_41: 8992292975569399929
+      Monsters-Sandlands_42: 151130188846583901
+      Monsters-Sandlands_43: -933494746028626583
+      Monsters-Sandlands_44: 4007786422335252466
+      Monsters-Sandlands_45: -2477279886147150321
+      Monsters-Sandlands_46: -3186993218052492312
+      Monsters-Sandlands_47: -7524468719636590555
+      Monsters-Sandlands_48: -7468429176053089765
+      Monsters-Sandlands_49: -8772481817122281050
+      Monsters-Sandlands_5: -3674525281029001492
+      Monsters-Sandlands_50: -6911795534107354113
+      Monsters-Sandlands_51: -912806006410399608
+      Monsters-Sandlands_52: -5925053689886539513
+      Monsters-Sandlands_53: -8701367806467243761
+      Monsters-Sandlands_54: 7139884144144069206
+      Monsters-Sandlands_55: -9004530025206199978
+      Monsters-Sandlands_56: -6171458034892163254
+      Monsters-Sandlands_57: -8322705230906244760
+      Monsters-Sandlands_58: -5981132819666140701
+      Monsters-Sandlands_59: 1354226141758477859
+      Monsters-Sandlands_6: 9053734703411809036
+      Monsters-Sandlands_60: -7346754316446023823
+      Monsters-Sandlands_61: 3662651524716829021
+      Monsters-Sandlands_62: -2017455063217185128
+      Monsters-Sandlands_63: -1471516888516582052
+      Monsters-Sandlands_64: -6245058789459561846
+      Monsters-Sandlands_65: -5907544823883273081
+      Monsters-Sandlands_66: -6813196194336884075
+      Monsters-Sandlands_67: -816060568391614351
+      Monsters-Sandlands_68: -715589706015074109
+      Monsters-Sandlands_7: -3931409538935640665
+      Monsters-Sandlands_8: 4638042420375271529
+      Monsters-Sandlands_9: 5187267326987577594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

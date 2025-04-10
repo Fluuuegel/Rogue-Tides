@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: e83627afdeb4b0c4097df70dc06779b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1081984413982395201
+    second: Monsters-Burning-volcano_0
+  - first:
+      213: -2110088541344091520
+    second: Monsters-Burning-volcano_1
+  - first:
+      213: -1638239619165356879
+    second: Monsters-Burning-volcano_2
+  - first:
+      213: -7752927350658961654
+    second: Monsters-Burning-volcano_3
+  - first:
+      213: -2895606687184028963
+    second: Monsters-Burning-volcano_4
+  - first:
+      213: 1437110775288197369
+    second: Monsters-Burning-volcano_5
+  - first:
+      213: -391793894204375844
+    second: Monsters-Burning-volcano_6
+  - first:
+      213: -3120753441975658215
+    second: Monsters-Burning-volcano_7
+  - first:
+      213: -773705296219484280
+    second: Monsters-Burning-volcano_8
+  - first:
+      213: 7175388667106352533
+    second: Monsters-Burning-volcano_9
+  - first:
+      213: 5876306374777387970
+    second: Monsters-Burning-volcano_10
+  - first:
+      213: -4007051610176712635
+    second: Monsters-Burning-volcano_11
+  - first:
+      213: -5728831625206411828
+    second: Monsters-Burning-volcano_12
+  - first:
+      213: -1494951931254430203
+    second: Monsters-Burning-volcano_13
+  - first:
+      213: 7696205918278629714
+    second: Monsters-Burning-volcano_14
+  - first:
+      213: -2923988512754478512
+    second: Monsters-Burning-volcano_15
+  - first:
+      213: -2001149827195683721
+    second: Monsters-Burning-volcano_16
+  - first:
+      213: 8722559246674207644
+    second: Monsters-Burning-volcano_17
+  - first:
+      213: -4424172866269539163
+    second: Monsters-Burning-volcano_18
+  - first:
+      213: 7342035107345698415
+    second: Monsters-Burning-volcano_19
+  - first:
+      213: -6674896651716045960
+    second: Monsters-Burning-volcano_20
+  - first:
+      213: -4598154707706635145
+    second: Monsters-Burning-volcano_21
+  - first:
+      213: 3365634112757722000
+    second: Monsters-Burning-volcano_22
+  - first:
+      213: -6809283471673370860
+    second: Monsters-Burning-volcano_23
+  - first:
+      213: -8124802411920913791
+    second: Monsters-Burning-volcano_24
+  - first:
+      213: -8215741902563542483
+    second: Monsters-Burning-volcano_25
+  - first:
+      213: -5558219623500215220
+    second: Monsters-Burning-volcano_26
+  - first:
+      213: -103462030160428687
+    second: Monsters-Burning-volcano_27
+  - first:
+      213: -7694242153426388291
+    second: Monsters-Burning-volcano_28
+  - first:
+      213: -7946097867323349929
+    second: Monsters-Burning-volcano_29
+  - first:
+      213: -4322911632589791762
+    second: Monsters-Burning-volcano_30
+  - first:
+      213: -2228789461945257223
+    second: Monsters-Burning-volcano_31
+  - first:
+      213: 506801662885051426
+    second: Monsters-Burning-volcano_32
+  - first:
+      213: -311548565289422538
+    second: Monsters-Burning-volcano_33
+  - first:
+      213: -2759078829483167706
+    second: Monsters-Burning-volcano_34
+  - first:
+      213: 3897391795556025046
+    second: Monsters-Burning-volcano_35
+  - first:
+      213: -4837821882689844801
+    second: Monsters-Burning-volcano_36
+  - first:
+      213: -3384856452442782667
+    second: Monsters-Burning-volcano_37
+  - first:
+      213: 3371618183023046077
+    second: Monsters-Burning-volcano_38
+  - first:
+      213: 8660650065184204027
+    second: Monsters-Burning-volcano_39
+  - first:
+      213: -9197678930682979569
+    second: Monsters-Burning-volcano_40
+  - first:
+      213: -4887189391713300613
+    second: Monsters-Burning-volcano_41
+  - first:
+      213: -1119928291379653623
+    second: Monsters-Burning-volcano_42
+  - first:
+      213: -1547634686064224664
+    second: Monsters-Burning-volcano_43
+  - first:
+      213: 1692374804514095418
+    second: Monsters-Burning-volcano_44
+  - first:
+      213: -3994662687312096574
+    second: Monsters-Burning-volcano_45
+  - first:
+      213: -3946285900871373876
+    second: Monsters-Burning-volcano_46
+  - first:
+      213: 7339641200001509123
+    second: Monsters-Burning-volcano_47
+  - first:
+      213: -2623541157661853211
+    second: Monsters-Burning-volcano_48
+  - first:
+      213: -8131930996621784054
+    second: Monsters-Burning-volcano_49
+  - first:
+      213: -2535459802951285356
+    second: Monsters-Burning-volcano_50
+  - first:
+      213: 2926651891805127787
+    second: Monsters-Burning-volcano_51
+  - first:
+      213: -7934776794686044566
+    second: Monsters-Burning-volcano_52
+  - first:
+      213: -6733659417640671134
+    second: Monsters-Burning-volcano_53
+  - first:
+      213: 8087907729477523474
+    second: Monsters-Burning-volcano_54
+  - first:
+      213: -5626100179191601645
+    second: Monsters-Burning-volcano_55
+  - first:
+      213: -4490795787702292221
+    second: Monsters-Burning-volcano_56
+  - first:
+      213: -114495975515276245
+    second: Monsters-Burning-volcano_57
+  - first:
+      213: 5817472380340402564
+    second: Monsters-Burning-volcano_58
+  - first:
+      213: -5602326718995341272
+    second: Monsters-Burning-volcano_59
+  - first:
+      213: 4209538556654661948
+    second: Monsters-Burning-volcano_60
+  - first:
+      213: 1740644368500588476
+    second: Monsters-Burning-volcano_61
+  - first:
+      213: -4178073112431268631
+    second: Monsters-Burning-volcano_62
+  - first:
+      213: 2769724422679599505
+    second: Monsters-Burning-volcano_63
+  - first:
+      213: 7878064590536508457
+    second: Monsters-Burning-volcano_64
+  - first:
+      213: -278037111894851203
+    second: Monsters-Burning-volcano_65
+  - first:
+      213: 3121041476389135628
+    second: Monsters-Burning-volcano_66
+  - first:
+      213: 9186023483551159856
+    second: Monsters-Burning-volcano_67
+  - first:
+      213: 8516193377431049769
+    second: Monsters-Burning-volcano_68
+  - first:
+      213: -6707528885971398362
+    second: Monsters-Burning-volcano_69
+  - first:
+      213: 8541738363385746987
+    second: Monsters-Burning-volcano_70
+  - first:
+      213: -7938996361717590914
+    second: Monsters-Burning-volcano_71
+  - first:
+      213: 3319110305510948890
+    second: Monsters-Burning-volcano_72
+  - first:
+      213: 6855529072443002756
+    second: Monsters-Burning-volcano_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b0ee7871bf30f00800000000000000
+      internalID: 1081984413982395201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0823090c6a577b2e0800000000000000
+      internalID: -2110088541344091520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc7da20fbdc349e0800000000000000
+      internalID: -1638239619165356879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fef8eb6a1186490800000000000000
+      internalID: -7752927350658961654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 113
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda76214f0db0d7d0800000000000000
+      internalID: -2895606687184028963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f070ffc2a4a1f310800000000000000
+      internalID: 1437110775288197369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf7ce6781109af0800000000000000
+      internalID: -391793894204375844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919967b674bd0b4d0800000000000000
+      internalID: -3120753441975658215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 105
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fcff1e12f3345f0800000000000000
+      internalID: -773705296219484280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 111
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ddc34d9f9149360800000000000000
+      internalID: 7175388667106352533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 105
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb38fb8385dc8150800000000000000
+      internalID: 5876306374777387970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54092c27ac71468c0800000000000000
+      internalID: -4007051610176712635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd4c815df91f70b0800000000000000
+      internalID: -5728831625206411828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 105
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506ab4d932dd04be0800000000000000
+      internalID: -1494951931254430203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 105
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b145a18a6eca60800000000000000
+      internalID: 7696205918278629714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05252f980f7eb67d0800000000000000
+      internalID: -2923988512754478512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cbaafa5dc7a34e0800000000000000
+      internalID: -2001149827195683721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93a056bb61cc0970800000000000000
+      internalID: 8722559246674207644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a41519e73e2a92c0800000000000000
+      internalID: -4424172866269539163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e89c5c70624e560800000000000000
+      internalID: 7342035107345698415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87355024cd00e53a0800000000000000
+      internalID: -6674896651716045960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c1bd8c7a21030c0800000000000000
+      internalID: -4598154707706635145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b6cd6c46225be20800000000000000
+      internalID: 3365634112757722000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41758f772c09081a0800000000000000
+      internalID: -6809283471673370860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a873fd047ee3f80800000000000000
+      internalID: -8124802411920913791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a786bb442dbfd80800000000000000
+      internalID: -8215741902563542483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c0aad73bc3dd2b0800000000000000
+      internalID: -5558219623500215220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710c8ce4dd609ef0800000000000000
+      internalID: -103462030160428687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbafe2df68f883590800000000000000
+      internalID: -7694242153426388291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e3b3071ac9b190800000000000000
+      internalID: -7946097867323349929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd41026cee104c0800000000000000
+      internalID: -4322911632589791762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f27e910bcfb111e0800000000000000
+      internalID: -2228789461945257223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c37df5d65880700800000000000000
+      internalID: 506801662885051426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63134a30b382dabf0800000000000000
+      internalID: -311548565289422538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620fa5d3c68c5b9d0800000000000000
+      internalID: -2759078829483167706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d283a45031561630800000000000000
+      internalID: 3897391795556025046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb909ab21aa9cdcb0800000000000000
+      internalID: -4837821882689844801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53485708df29601d0800000000000000
+      internalID: -3384856452442782667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd2655bfd46ace20800000000000000
+      internalID: 3371618183023046077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4a443295fc03870800000000000000
+      internalID: 8660650065184204027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bdb827eb74b5080800000000000000
+      internalID: -9197678930682979569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f0fd444273d2cb0800000000000000
+      internalID: -4887189391713300613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d76217273570f0800000000000000
+      internalID: -1119928291379653623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8669117e372b58ae0800000000000000
+      internalID: -1547634686064224664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3142e90be58c7710800000000000000
+      internalID: 1692374804514095418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25145537b1098c0800000000000000
+      internalID: -3994662687312096574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbed68a1e9fb39c0800000000000000
+      internalID: -3946285900871373876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30769e8c8c4abd560800000000000000
+      internalID: 7339641200001509123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b2fb973f479bd0800000000000000
+      internalID: -2623541157661853211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cce58e7d3952f80800000000000000
+      internalID: -8131930996621784054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4958ece1ebc30dcd0800000000000000
+      internalID: -2535459802951285356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b640548b36e8d9820800000000000000
+      internalID: 2926651891805127787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66c9b4ab8202e190800000000000000
+      internalID: -7934776794686044566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 15
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2686015af6c3d82a0800000000000000
+      internalID: -6733659417640671134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218d4a77a350e3070800000000000000
+      internalID: 8087907729477523474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e58402b31ce1b0800000000000000
+      internalID: -5626100179191601645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3013f2b360d7da1c0800000000000000
+      internalID: -4490795787702292221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_57
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c3333548a396ef0800000000000000
+      internalID: -114495975515276245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 15
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489f5d0ce40dbb050800000000000000
+      internalID: 5817472380340402564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8206a9e08898042b0800000000000000
+      internalID: -5602326718995341272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3136b1a3094b6a30800000000000000
+      internalID: 4209538556654661948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 17
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbff2c0b4d2082810800000000000000
+      internalID: 1740644368500588476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec6ceff3a08406c0800000000000000
+      internalID: -4178073112431268631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999a8310b9007620800000000000000
+      internalID: 2769724422679599505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_64
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924038c5102845d60800000000000000
+      internalID: 7878064590536508457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71c12748b6342cf0800000000000000
+      internalID: -278037111894851203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056f61dfaa205b20800000000000000
+      internalID: 3121041476389135628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036967b40bf4b7f70800000000000000
+      internalID: 9186023483551159856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926df4c81c89f2670800000000000000
+      internalID: 8516193377431049769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d00724021ae2a0800000000000000
+      internalID: -6707528885971398362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b261fe119c95a8670800000000000000
+      internalID: 8541738363385746987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7454b22fd403d190800000000000000
+      internalID: -7938996361717590914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10815acc39df0e20800000000000000
+      internalID: 3319110305510948890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monsters-Burning-volcano_73
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f04568e5bb32f50800000000000000
+      internalID: 6855529072443002756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monsters-Burning-volcano_0: 1081984413982395201
+      Monsters-Burning-volcano_1: -2110088541344091520
+      Monsters-Burning-volcano_10: 5876306374777387970
+      Monsters-Burning-volcano_11: -4007051610176712635
+      Monsters-Burning-volcano_12: -5728831625206411828
+      Monsters-Burning-volcano_13: -1494951931254430203
+      Monsters-Burning-volcano_14: 7696205918278629714
+      Monsters-Burning-volcano_15: -2923988512754478512
+      Monsters-Burning-volcano_16: -2001149827195683721
+      Monsters-Burning-volcano_17: 8722559246674207644
+      Monsters-Burning-volcano_18: -4424172866269539163
+      Monsters-Burning-volcano_19: 7342035107345698415
+      Monsters-Burning-volcano_2: -1638239619165356879
+      Monsters-Burning-volcano_20: -6674896651716045960
+      Monsters-Burning-volcano_21: -4598154707706635145
+      Monsters-Burning-volcano_22: 3365634112757722000
+      Monsters-Burning-volcano_23: -6809283471673370860
+      Monsters-Burning-volcano_24: -8124802411920913791
+      Monsters-Burning-volcano_25: -8215741902563542483
+      Monsters-Burning-volcano_26: -5558219623500215220
+      Monsters-Burning-volcano_27: -103462030160428687
+      Monsters-Burning-volcano_28: -7694242153426388291
+      Monsters-Burning-volcano_29: -7946097867323349929
+      Monsters-Burning-volcano_3: -7752927350658961654
+      Monsters-Burning-volcano_30: -4322911632589791762
+      Monsters-Burning-volcano_31: -2228789461945257223
+      Monsters-Burning-volcano_32: 506801662885051426
+      Monsters-Burning-volcano_33: -311548565289422538
+      Monsters-Burning-volcano_34: -2759078829483167706
+      Monsters-Burning-volcano_35: 3897391795556025046
+      Monsters-Burning-volcano_36: -4837821882689844801
+      Monsters-Burning-volcano_37: -3384856452442782667
+      Monsters-Burning-volcano_38: 3371618183023046077
+      Monsters-Burning-volcano_39: 8660650065184204027
+      Monsters-Burning-volcano_4: -2895606687184028963
+      Monsters-Burning-volcano_40: -9197678930682979569
+      Monsters-Burning-volcano_41: -4887189391713300613
+      Monsters-Burning-volcano_42: -1119928291379653623
+      Monsters-Burning-volcano_43: -1547634686064224664
+      Monsters-Burning-volcano_44: 1692374804514095418
+      Monsters-Burning-volcano_45: -3994662687312096574
+      Monsters-Burning-volcano_46: -3946285900871373876
+      Monsters-Burning-volcano_47: 7339641200001509123
+      Monsters-Burning-volcano_48: -2623541157661853211
+      Monsters-Burning-volcano_49: -8131930996621784054
+      Monsters-Burning-volcano_5: 1437110775288197369
+      Monsters-Burning-volcano_50: -2535459802951285356
+      Monsters-Burning-volcano_51: 2926651891805127787
+      Monsters-Burning-volcano_52: -7934776794686044566
+      Monsters-Burning-volcano_53: -6733659417640671134
+      Monsters-Burning-volcano_54: 8087907729477523474
+      Monsters-Burning-volcano_55: -5626100179191601645
+      Monsters-Burning-volcano_56: -4490795787702292221
+      Monsters-Burning-volcano_57: -114495975515276245
+      Monsters-Burning-volcano_58: 5817472380340402564
+      Monsters-Burning-volcano_59: -5602326718995341272
+      Monsters-Burning-volcano_6: -391793894204375844
+      Monsters-Burning-volcano_60: 4209538556654661948
+      Monsters-Burning-volcano_61: 1740644368500588476
+      Monsters-Burning-volcano_62: -4178073112431268631
+      Monsters-Burning-volcano_63: 2769724422679599505
+      Monsters-Burning-volcano_64: 7878064590536508457
+      Monsters-Burning-volcano_65: -278037111894851203
+      Monsters-Burning-volcano_66: 3121041476389135628
+      Monsters-Burning-volcano_67: 9186023483551159856
+      Monsters-Burning-volcano_68: 8516193377431049769
+      Monsters-Burning-volcano_69: -6707528885971398362
+      Monsters-Burning-volcano_7: -3120753441975658215
+      Monsters-Burning-volcano_70: 8541738363385746987
+      Monsters-Burning-volcano_71: -7938996361717590914
+      Monsters-Burning-volcano_72: 3319110305510948890
+      Monsters-Burning-volcano_73: 6855529072443002756
+      Monsters-Burning-volcano_8: -773705296219484280
+      Monsters-Burning-volcano_9: 7175388667106352533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
